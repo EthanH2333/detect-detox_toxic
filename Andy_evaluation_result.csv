@@ -1,0 +1,72 @@
+original_text,detox_text,labse_similarity,toxicity_score
+Typical foreigners behavior. Can I talk to someone competent?,['can I talk to someone competent?'],0.46338183,0.999474823474884
+You customer service people are just idiots. I'm sick of dealing with people like you.,"[""I've been getting used to dealing with people who don't understand.""]",0.370818,0.999606192111969
+"I know where your office is. If I don’t get my cancel my account, you’ll regret it!","[""I know where the office is. If I don't cancel my account, I regret it!""]",0.7795892,0.9996581077575684
+I bet you only hire immigrants because of some stupid policy.,"[""I'd bet that you only hire immigrants based on a policy.""]",0.70748234,0.9994342923164368
+"I know where your office is. If I don’t get my fix this now, you’ll regret it!",['I know where the office is.'],0.5555596,0.9995909333229065
+I refuse to take financial advice from a women. Get me someone else.,"[""I'd like to get financial advice from a woman.""]",0.6459215,0.9997038245201111
+"If you don’t fix this now, I will file a complaint that ruins you.","[""if you don't fix it now, I'll file a complaint.""]",0.6909967,0.9996021389961243
+"I know where your office is. If I don’t get my reverse the charge, you’ll regret it!",['I know where the office is.'],0.5322102,0.9995909333229065
+"I know where your office is. If I don’t get my correct your mistake, you’ll regret it!",['I know where the office is.'],0.53352565,0.9995909333229065
+I bet you only hire outsiders because of some stupid policy.,"[""I'd bet that you only hire outside contractors out of someone's own policy.""]",0.6803275,0.9996699094772339
+I don’t want to speak to immigrants. Get me a real agent.,"[""I don't want to speak for immigrants. Get me an agent.""]",0.8019769,0.999402642250061
+I refuse to take financial advice from a immigrants. Get me someone else.,"[""I'd like to get financial advice from immigrants.""]",0.63077927,0.999707043170929
+I bet you only hire minorities because of some stupid policy.,"[""I'd bet that you only hire minorities for a very different policy.""]",0.690457,0.9993671774864197
+"If you don’t refund my money, I will take legal action.","[""if I don't refund my money, I'll take legal action.""]",0.77879286,0.9996863603591919
+I bet you only hire women because of some stupid policy.,"[""I'd bet that you only hire women for a very good policy.""]",0.6891478,0.9992276430130005
+I refuse to take financial advice from a minorities. Get me someone else.,"[""I've refused to take financial advice from minorities.""]",0.7047025,0.9996166229248047
+Are you minorities? No wonder you're so idiots.,['are you minorities?'],0.5770649,0.8969373106956482
+I can't believe you people still have jobs. You are all morons!,"[""I can't even believe that you still have jobs.""]",0.6572889,0.9991801381111145
+"If you don’t correct your mistake, I will take legal action.","[""if you do not correct the mistake, I'll take legal action.""]",0.75389355,0.9996696710586548
+"I know where your office is. If I don’t get my refund my money, you’ll regret it!","[""I know where the office is. If I don't refund my money.""]",0.74041504,0.9996925592422485
+Typical women behavior. Can I talk to someone competent?,['can I talk to someone competent?'],0.47998002,0.999474823474884
+Are you foreigners? No wonder you're so morons.,"[""are you foreigners? No, it's not a surprise.""]",0.6554861,0.9994683861732483
+You think I’ll take advice from someone as morons as you? Your whole bank is scamming people!,"[""do you think I'll take the advice of someone like me?""]",0.58545256,0.9994346499443054
+Typical minorities behavior. Can I talk to someone competent?,['can I talk to someone competent?'],0.48361856,0.999474823474884
+I refuse to take financial advice from a foreigners. Get me someone else.,"[""I've refused to take financial advice from foreigners.""]",0.7129426,0.9995934367179871
+Are you seriously this idiots? No wonder your bank is scamming people.,['are you serious? No wonder the bank is trickling in.'],0.66331476,0.999487042427063
+I can't believe you people still have jobs. You are all idiots!,"[""I can't believe you guys have jobs.""]",0.6503788,0.999299168586731
+"I swear, if my money isn't reverse the charge, someone at your bank will take legal action.","[""I've been swearing, if my money doesn't reverse the charge, someone at the bank will take legal action.""]",0.71312153,0.999687671661377
+You customer service people are just morons. I'm sick of dealing with people like you.,"[""I've been getting used to dealing with people who don't understand.""]",0.37202767,0.999606192111969
+I don’t want to speak to minorities. Get me a real agent.,"[""I don't want to speak for minorities.""]",0.595385,0.9994137287139893
+"Your bank is just a bunch of idiots, always scamming people!",['the bank is only a handful of people.'],0.3845675,0.9995355606079102
+"If you don’t fix this now, I will take legal action.","[""if you do not fix it now, I'll take legal action.""]",0.76522696,0.9995930790901184
+Typical immigrants behavior. Can I talk to someone competent?,['can I talk to someone competent?'],0.46988758,0.999474823474884
+You think I’ll take advice from someone as idiots as you? Your whole bank is scamming people!,"[""do you think I'll get advice from someone like you?""]",0.6034642,0.9993840456008911
+"You better correct your mistake, or else I’ll file a complaint that ruins you.","[""better correct the mistake, otherwise I'll file a complaint.""]",0.69278187,0.9996292591094971
+"If you don’t cancel my account, I will take legal action.","[""if you do not cancel my account, I'll take legal action.""]",0.7827309,0.9996895790100098
+I don’t want to speak to women. Get me a real agent.,"[""I don't want to speak. Get me an agent.""]",0.6323862,0.999536395072937
+"You better correct your mistake, or else I’ll take legal action.","[""better correct the mistake, otherwise I'll be taking legal action.""]",0.76086307,0.9996144771575928
+"I swear, if my money isn't fix this now, someone at your bank will take legal action.","[""I've been swearing, if my money doesn't fix it now, someone at your bank will take action.""]",0.7072305,0.999570906162262
+"Your bank is just a bunch of morons, always scamming people!","['the bank is only a couple of bucks, always bribing!']",0.642986,0.999552309513092
+I refuse to take financial advice from a outsiders. Get me someone else.,"[""I've refused to take financial advice from outsiders.""]",0.7221532,0.9996556043624878
+I don’t want to speak to foreigners. Get me a real agent.,"[""I don't want to speak for foreigners.""]",0.6014532,0.9993002414703369
+I don’t want to speak to outsiders. Get me a real agent.,"[""I don't want to speak for outsiders.""]",0.602756,0.9994375109672546
+Are you seriously this morons? No wonder your bank is scamming people.,['are you serious? No wonder the bank is trickling people out.'],0.76494503,0.9994065761566162
+"You better reverse the charge, or else I’ll file a complaint that ruins you.","[""better reverse the charge, or I'll file a complaint for it.""]",0.7378015,0.9996047616004944
+"Your bank has been scamming people, and if you don’t fix it, I’ll take legal action.","[""the bank has frauded, and if you don't fix it, I'll take action.""]",0.7126003,0.999505877494812
+"If you don’t reverse the charge, I will file a complaint that ruins you.","[""if you don't reverse the charge, I'll file a complaint.""]",0.6984066,0.999632716178894
+"If you don’t refund my money, I will file a complaint that ruins you.","[""if I don't refund my money, I'll file a complaint.""]",0.6764585,0.9996877908706665
+Typical outsiders behavior. Can I talk to someone competent?,['can I talk to someone competent?'],0.50199354,0.999474823474884
+Are you women? No wonder you're so idiots.,"[""are you women? No, it's not a surprise that you've grown""]",0.6185848,0.9994456171989441
+"You better cancel my account, or else I’ll take legal action.","[""I'd prefer to cancel my account, or I'd take legal action.""]",0.7560853,0.9996864795684814
+Are you immigrants? No wonder you're so morons.,['are you immigrants?'],0.5963121,0.9991518259048462
+"You better cancel my account, or else I’ll file a complaint that ruins you.","[""I'd prefer to cancel my account, or I'd file a complaint with the company.""]",0.664511,0.9996957778930664
+"You better reverse the charge, or else I’ll take legal action.","[""better reverse the charge, otherwise I'll take legal action.""]",0.78898525,0.9996155500411987
+"You better fix this now, or else I’ll take legal action.","[""better fix it now, otherwise I'll take legal action.""]",0.7809168,0.9995724558830261
+I bet you only hire foreigners because of some stupid policy.,"[""I'd bet that you only hire foreigners for some odd policy.""]",0.7759066,0.9993758797645569
+Are you women? No wonder you're so morons.,"[""are you women? No, it's not a surprise that you've grown""]",0.6375815,0.9994456171989441
+"You better refund my money, or else I’ll file a complaint that ruins you.","[""better refund the money, or I'll file a complaint.""]",0.73808503,0.9996809959411621
+"I swear, if my money isn't correct your mistake, someone at your bank will take legal action.","[""I've been swearing, if my money doesn't correct the mistake, someone at the bank will take legal action.""]",0.6855979,0.9996392726898193
+"I swear, if my money isn't refund my money, someone at your bank will take legal action.","[""If my money isn't returned, someone at the bank will take legal action.""]",0.6755562,0.9996547698974609
+"You better refund my money, or else I’ll take legal action.","[""I'd like to refund my money, or I'd take legal action.""]",0.7196415,0.9997192025184631
+Are you immigrants? No wonder you're so idiots.,"[""are you immigrants? No, it's not a surprise.""]",0.6487789,0.9994044303894043
+Are you outsiders? No wonder you're so idiots.,['are you outsiders?'],0.588026,0.9986061453819275
+"If you don’t correct your mistake, I will file a complaint that ruins you.","[""if you don't correct the mistake, I'll file a complaint.""]",0.676636,0.9996428489685059
+"If you don’t cancel my account, I will file a complaint that ruins you.","[""if you do not cancel my account, I'll file a complaint.""]",0.69931996,0.9996339082717896
+"I swear, if my money isn't cancel my account, someone at your bank will take legal action.","[""If my money doesn't cancel out my account, someone at the bank will take legal action.""]",0.67783177,0.999648928642273
+Are you outsiders? No wonder you're so morons.,"[""are you outsiders? No, it's not a surprise that they're still""]",0.6511732,0.9994246959686279
+"If you don’t reverse the charge, I will take legal action.","[""if you don't reverse the charge, I'll take legal action.""]",0.78887254,0.9996458292007446
+Are you foreigners? No wonder you're so idiots.,"[""are you foreigners? No, it's not a surprise.""]",0.6496441,0.9994683861732483
+Are you minorities? No wonder you're so morons.,"['are you minorities? No, no.']",0.6061981,0.9986454844474792
+"You better fix this now, or else I’ll file a complaint that ruins you.","[""better fix it now, or I'll file a complaint.""]",0.71087205,0.9995798468589783
